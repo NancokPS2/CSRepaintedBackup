@@ -1,0 +1,302 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0341:0095<CMU0002<FAI0004<END
+#0095
+<CMU0014<FAI0004<END
+#0098
+<CMU0014
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0099
+<KEY<MNA<FLJ0341:0098<CMU0002
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0100
+<PRI<FAO0004<TRA0010:0094:0018:0032
+#0101
+<PRI<FAO0004<TRA0012:0094:0037:0011
+#0102
+<FLJ0155:0103<PRI<SOU0011<DNP0102<FAO0004<TRA0011:0094:0016:0053
+#0103
+<PRI<SOU0011<CMU0000<DNP0102<FAO0004<TRA0011:0400:0016:0053
+#0200
+<FLJ0159:0205
+<FLJ0158:0204
+<FLJ0157:0203
+<FLJ0325:0202
+<FLJ0154:0201
+<KEY<MSGWords light up the screen...<NOD<CLR<TUR"...Even your HoleWidener2K..."<NOD<FLJ0153:0000<CLR<MSG
+Do you want to permit
+teleportation to the Egg Corridr?<YNJ0000<CLR
+Permission granted to access Egg
+Corridor.<NOD<FL+0153<PS+0001:6001<END
+#0201
+<KEY<MSGWords light up the screen...<NOD<CLR
+<TURConnecting to Grasstown...<NOD<END
+#0202
+<KEY<MSG<TUR
+Connected to Grasstown.<NOD<END
+#0203
+<KEY<MSG<TUR
+Enter command.<NOD<END
+#0204
+<KEY<MSG<TUR
+Connected to Albequerque.<NOD<END
+#0205
+<KEY<MSGWords light up the screen...<NOD<CLR<TUR
+Head for the Egg Corridor
+                        --Otacon<NOD<END
+#0210
+<KEY<MSGFlowers...?<NOD<END
+#0300
+#0301
+#0303
+#0500
+<KEY<MSGA telepotty.<NOD<SLP<NOD<END
+#0600
+<FLJ0325:0601
+<KEY<MSG<FAC0009Welcome back.<NOD<CLRCrab Sue's back too.<NOD
+She's been locked up in
+Otaku Jail outside.<NOD
+We heard her on Joe Rogan
+the other day, saying that
+Spy x Family was mid<NOD
+so we decided to imprison
+her.<NOD<CLRThat kind of wrongthink
+won't be accepted here.<NOD
+There should be some pocky
+on the ground if you want to
+throw things at her.<NOD<END
+#0601
+<KEY<MSG<FAC0009I hope Asuka's safe...<NOD<END
+#0620
+<KEY<CMU0000<FL+0156<FL+0444
+<ANP0500:0001:0000
+<WAI0002<CNP0622:0055:0000<WAI0010
+<FAI0004
+<CNP0621:0113:0000
+<ANP0621:0030:0000<WAI0100
+<MSG<FAC0018D.K. !!!<NOD
+Donkey Kong is here!<NOD<CLR<FAC0010...Are you okay?<NOD<CLO<FAC0000
+<WAI0030<ANP0621:0000:0002
+<MSG<FAC0018Yep.<NOD<CLRMy life flashed before
+my eyes.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
+<ANP0500:0000:0000<WAI0030
+<ANP0102:0000:0002<SOU0011
+<CNP0625:0042:0000
+<MSG<FAC0001Otacon!!<NOD<ANP0622:0000:0002<CLRAnd Donkey Kong!<NOD
+Have you heard?<NOD<CLR<FAC0018What?<NOD<CLO<FAC0000
+<ANP0621:0003:0002<WAI0080
+<ANP0621:0000:0002
+<MSG<FAC0018About the bird?<NOD<CLR<FAC0002N-no?<NOD<CLO<FAC0000
+<CNP0624:0061:0000
+<ANP0625:0003:0000<WAI0016
+<ANP0624:0008:0000<WAI0016
+<ANP0624:0000:0000
+<SOU0011<ANP0102:0000:0000<WAI0048
+<ANP0625:0000:0000
+<MSG<FAC0007.....<NOD<CLR<FAC0018Who's that guy?<NOD<CLO<FAC0000
+<WAI0030
+<ANP0625:0000:0002<WAI0030
+<ANP0624:0000:0002<WAI0050
+<ANP0625:0000:0000<WAI0020
+<MSG<FAC0001That's King Harkinyan.<NOD<CLRHe just lost his subject and
+good friend, Asuka.<NOD
+She was just kidnapped by
+Walter White and he'd do
+anything to save her.<NOD<CLO
+<CMU0002
+<ANP0500:0001:0000
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<FL-0157<END
+#0621
+<KEY<FLJ0158:0631<MSG<FAC0018Walter's plans are
+proceeding exactly on
+schedule...<NOD
+If we don't do something
+soon...<NOD<END
+#0622
+<KEY<FLJ0158:0632<MSG<FAC0010Thanks for your help.<NOD<CLRThough I used my mom's
+credit card to buy that GLA,
+so she'll be pissed.<NOD<END
+#0624
+<KEY<FLJ0158:0634<MSG<FAC0007Asuka...<NOD
+My tomodachi...<NOD<END
+#0625
+<KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
+<FAC0001Welcome back!<NOD<CLRLooks like I owe you
+another one.<NOD
+With Otacon's help,<NOD
+we should be able to get
+out.<NOD<CLO<FAC0000
+<ANP0625:0003:0000<WAI0008
+<ANP0625:0000:0000<MSG<FAC0001DK!<NOD<CLRCan we take this little
+guy with us when we go?<NOD<CLO<FAC0000
+<ANP0622:0003:0002<WAI0015
+<ANP0622:0005:0002
+<MSG<FAC0018<CMU0000.....<NOD<CLR
+<FAC0010Professor.<NOD<CLR<FAC0001???<NOD<CLR<FAC0018Crabby Sue, my dear...<NOD
+We have to suspend our
+escape.<NOD<CLRWalter is too big a
+threat to ignore.<NOD<ANP0624:0000:0000<CLR
+<FAC0007!!!<NOD<CLR<FAC0001What?<NOD<CLR<FAC0018He has Asuka, I don't know
+what his plans for her are,<NOD
+but they certainly aren't
+good. If we don't stop him
+now, more people will get
+hurt like her.<NOD
+His home base is in
+Albequerque.<NOD
+It is a city he has turned
+into his twisted kingdom.<NOD
+The ground is covered with
+failed batches of meth that
+weren't up to his standards,<NOD
+and the only people left
+alive are freaky hermits.<NOD<CLR
+<FAC0007Albequerque...<NOD<CLR<FAC0018Albequerque is the biggest,
+meanest city around.<NOD
+Even supposing we made the
+trip,<NOD
+there's no guarantee that
+we would return alive...<NOD<CLR
+<FAC0007So you're giving up?<NOD<CLR<FAC0010Actually...<NOD<CLRI have a foolproof plan.<NOD<CLO<FAC0000
+<ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
+<ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
+<MSG<FAC0010QUOTE, you go in first with
+guns blazing, that seems
+like your thing.<NOD<CLR
+<CMU0002<FAC0018What will the rest of us do
+in the plan?<NOD<CLR<FAC0010 I'm not gonna tell you yet.<NOD
+Did you ever watch Ocean's
+Eleven?<CLR<FAC0018Yeah,<ANP0621:0000:0000<NOD
+it's a very good movie.<NOD<CLR<FAC0001Have you guys seen Ocean's
+Eight? That's my favorite.<NOD<CLR<FAC0010You know, I've been meaning
+to see it, but I just
+haven't gotten around...<NOD<CLR<FAC0010Anyways, in heist
+movies if the plan is fully
+explained, it never works so
+I won't tell you the plan.<NOD
+I need you all to trust me.<NOD
+Are you in?<NOD<CLR<CLO<WAI0060<MSG<FAC0001I'm in.<NOD<CLR<CLO<WAI0030<MSG<FAC0018I'm in.<NOD<CLR<CLO<WAI0010<MSG<FAC0018In the Dino Squad<CLR<FAC0001What?<CLR<CLO<WAI0030<MSG<FAC0007fufufufufufu...<NOD
+Oh what thet hell, I'm in.<NOD<CLR
+<FAC0010The telepotty is ready.<NOD
+All ready for Albequerque..<NOD<CLR<FAC0018Now is the time to strike.<NOD
+Let's save Asuka and stop
+Walter.<NOD<CLO<FAC0000
+<ANP0622:0003:0000<WAI0015
+<ANP0622:0000:0002
+<ANP0621:0000:0002<WAI0030<MSG<FAC0018Good luck, QUOTE.<NOD<FL+0158<PS+0003:6003<END
+#0631
+<KEY<MSG<FAC0018You can reach Albequerque
+via the telepotty.<NOD
+Just thinking about Walter
+makes me furious.<NOD<END
+#0632
+<KEY<MSG<FAC0010You've got this.<NOD
+Now get out there, we'll do
+our part when the time
+comes.<NOD<END
+#0634
+<KEY<MSG<FAC0007What are we, some kind of
+Gay SoS: Cave Story on Weed?
+<NOD<END
+#0635
+<KEY<MSG<FAC0001If you get rid of the
+flowers, we'll be able to
+prevent the war for now.<NOD<CLRIt's a big responsibility.<NOD<END
+#0650
+<KEY<MSG<FAC0018Take Sue with you and
+flee this island...<NOD
+I beg you...<NOD<END
+#0651
+<DNP0651<KEY<MYD0000
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0006:0007:0002
+<CNP0650:0113:0002
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0000<WAI0050
+<ANP0650:0003:0002<WAI0064
+<ANP0650:0000:0000
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<MSG<FAC0018Only you, I see...<NOD<CLR...The Doctor has acquired
+the red flowers.<NOD<CLR...The island's Mimigas
+have all fallen into his
+hands.<NOD<CLRSo the tragedy has become
+inevitable...<NOD<CLRI should have allowed
+at least Sue to escape
+when I had the chance...<NOD<CLO<FAC0000
+<ANP0650:0003:0002<WAI0022
+<ANP0650:0005:0002
+<IT+0023<FL+0744<FL+0162<GIT1023
+<MSG
+Got the =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
+<ANP0650:0000:0002
+<MSG<FAC0018Please heed my last
+request.<NOD<CLRIf you see Sue again,<NOD
+I want you to take her
+and flee this island.<NOD<CLRThat girl is Sakamoto's
+daughter,<NOD
+and she never wanted to
+come here in the first
+place.<NOD
+But we couldn't leave the
+child all alone,<NOD
+so she had no choice but
+to come along with us.<NOD<CLR
+I beg you.<NOD<CLRTake that girl with you
+and flee.<NOD<CLO
+<FL-0160<FL+0161<FL+0741<PS+0004:6004<END
+#0660
+<KEY<FLJ1020:0661<MSG<FAC0018Take Sue with you and
+flee this island...<NOD
+I beg you...<NOD<END
+#0661
+<KEY<MSG<FAC0018I'm truly sorry for the
+chaos that has befallen
+your island.<NOD<CLRWe humans must take the
+blame.<NOD<END
+#0700
+<KEY<CMU0000<FAO0004<TRA0024:0700:0002:0000
+#6001
+<PRI<MSGDo you want to go to the
+Egg Corridor?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
+#6002
+<PRI<MSGDo you want to go to Grasstown?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0006:0098:0004:0018
+#6003
+<PRI<MSGDo you want to go to the
+Sand Zone?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0010:0099:0036:0033
+#6004
+<PRI<MSGDo you want to go to the
+Labyrinth?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0043:0099:0010:0034
+#6005
+<PRI<MSGDo you want to go to the
+Plantation?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0060:0099:0009:0009
+#6011
+<KEY<TRA0049:0099:0007:0006

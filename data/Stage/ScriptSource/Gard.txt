@@ -1,0 +1,138 @@
+
+#0090
+<MNA<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+
+#0100
+<PRI<FLJ0624:0102<FLJ0621:0101
+<FL+0624
+<FAO0004<TRA0037:0600:0033:0014
+#0101
+<PRI<MSGNo turning back...<NOD<END
+#0102
+<FAO0004<TRA0010:0094:0225:0036
+
+
+#0500
+<KEY<SKJ0003:0501<SK+0003<EVE0502
+#0501
+<KEY<SAT<EVE0502
+#0502
+<MYD0002
+<FL+0596<FL+0594<IT-0014<FL-0274
+<FL+0620<FL+0621<MNA<CMU0017<HMC<FON0503:0016<FAI0004
+<WAI0050<MSG<FAC0015Mister White.<NOD
+I brought the product
+as you requested.<NOD<CLR<FAC0021Well done.<NOD<CLO
+<WAI0030<ANP0502:0000:0000<WAI0030
+<MSGAnd this is the supply?<NOD<FAC0000<CLO
+<WAI0030<ANP0502:0000:0002
+<MSG<FAC0015Yes.<NOD<CLR<FAC0021My, my...<NOD<CLRIt's more pure
+than even I had
+imagined...<NOD<CLR<FAC0015Mister White...<NOD
+Would you like a sample?<NOD<CLR<FAC0021...No, let us not do
+that.<NOD<CLR
+.....<NOD<CLRHmmmm...<NOD
+Instead, let us bring in our
+"friend."<NOD<CLR<FAC0015Yes, Mister White.<NOD<FAC0000<CLO
+<ANP0502:0030:0000<WAI0050
+<CNP0503:0144:0000<WAI0110
+<MSGOof!<WAI0050<NOD<CLR<CNP0503:0060:0000<FAC0006.....<NOD<CLRHey everyone!<NOD<FAC0000<CLO
+<WAI0030<ANP0503:0000:0002<MSG<FAC0008Let's play tag again!<NOD<FAC0000<CLO
+<ANP0503:0006:0000<CNP0504:0009:0002<WAI0100
+<CNP0504:0012:0002<ANP0503:0010:0002
+<ANP0504:0030:0002
+<MSG<FAC0008Hey Balrog!<NOD<CLR<FAC0014Hi Asuka!<NOD<CLR
+<FAC0005The boss wants to talk.<NOD<FON0506:0016<CLR<FAC0021Asuka.<NOD
+Some of the others
+from the village are on
+their way.<NOD
+You know they never loved or
+valued you.<NOD<CLR
+<FAC0008I guess<NOD<CLR
+<FAC0021How would you like to
+prove yourself to them; to
+become stronger?<NOD<CLR<FAC0008Stronger?<NODThat would be cool!<NOD<CLR<FAC0021Then take this.<NOD It will make
+them all respect you.<NOD
+Would I lie to you?<NOD<CLR<FAC0008I guess not...<NODI'll try it.<NOD<CLR<FAC0021Balrog, keep an eye on her,
+<NODmake sure she follows
+through.<NOD<CLR<FAC0005<ANP0504:0030:0002
+W-what?<NODAre you sure about-<NOD<FAC0021...<NOD<CLR<FAC0015.<NOD..<NOD<CLR<FAC0005Alright.<NOD<CLR<FAC0000<CLO
+<ANP0504:0060:0002<WAI0032<MSG<FAC0006So I put all the clear stuff
+in this pipe, right?<NOD<CLR<FAC0005...<NOD<CLR<FAC0000<CLO
+<ANP0504:0050:0002<WAI0050
+<CMU0000<FAC0000WAAAAIT!!<NOD<CLO
+<FON0505:0016<WAI0030<CMU0018
+<CNP0505:0061:0002<ANP0505:0020:0002<WAI0050<MYD0050
+<ANP0505:0010:0002<WAI0024
+<ANP0505:0060:0002<WAI0025
+<ANP0504:0020:0000<WAI0050
+<ANP0505:0000:0020<WAI0200
+<MSG<FAC0007Asuka!
+Are you okay?!<NOD<CLR<FAC0011...K...King...?<NOD<CLRBut... why do you care?<NOD
+You hated me, and always
+called me stupid.<NOD<CLR<FAC0007
+No! I called you "baka",
+because you're my friend,
+Asuka,<NOD my tomodachi.<NOD<CLRWe were always there for you<NOD
+I just wish I could have
+shown you that more<CLRNo!!<NOD<FON0501:0016<CLRWalter.<NOD
+Monkeyfudging.<NOD
+White.<NOD<FAC0000<CLO
+<WAI0050<MSG<FAC0021.....<NOD<CLRWhat exactly is
+it you plan to do with
+that glowstick?<NOD<CLRI don't have time for these
+diversions.<NOD<CLR<FAC0007I'll kill yoooouuuuuuuu!!<NOD<FAC0000<CLO
+<ANP0505:0010:0002<WAI0040
+<ANP0502:0020:0000<WAI0015
+<ANP0501:0010:0000
+<CNP0507:0146:0002<WAI0015
+<ANP0505:0030:0000<FON0505:0016
+<DNA0145<CMU0000<WAI0130
+<MSG<FAC0021Ha.<NOD<CLO<WAI0030<SMC<WAI0030
+<MSGRYou honestly thought you
+could sneak attack me?<NOD
+I saw your allies come here,<NOD
+I scattered them across the
+underground<NOD!<FON0501:0016<ANP0501:0020:0000<CLRIf you survive your friend
+here, know this:<NOD
+you can never stop me.<NOD
+Give up while you can!<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
+<CNP0503:0140:0002<BSL0503
+<FOM0016<END
+
+
+<END
+#0501
+#0502
+#0503
+<KEY<FL+0623<DNA0141<DNA0142
+<FON0503:0016<ANP0503:0100:0005
+<WAI0400<CMU0000
+<MSG
+Defeated Asuka.<WAI0050<NOD<CLO
+<ANP0503:0140:0005<WAI0150<FOM0016<END
+#0504
+#0505
+<FLJ0622:0601
+<FLJ0623:0600
+<PRI<MSGA...<NODAsuka...<NOD<END
+#0506
+#0507
+
+#0600
+<KEY<FL+0622<MSG<FAC0007Ergh...<NOD<CLRIt's too late for me.<NOD
+Will you...avenge me...?<NOD<CLO
+<ANP0505:0040:0005<MYB0000<WAI0100<END
+#0601
+<KEY<FL-0621<DNP0505<AM+0009:0000
+<MSG<GIT0009<CMU0010
+Got the =King's Lightsaber=.<WAI0160<NOD<RMU<END
+

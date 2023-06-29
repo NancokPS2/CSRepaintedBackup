@@ -1,0 +1,62 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0013<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0013<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0013<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0013<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0013<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+#0100
+<PRI<FAO0000<TRA0011:0090:0045:0021
+
+
+#0105
+<PRI<MSGWant to save?<YNJ0000<SVP<CLRGame saved.<NOD<END
+#0106
+<PRI<LI+1000<SOU0020<AE+<MSGHearts replenished.<NOD<END
+
+#0200
+<KEY<MSGWelcome to our strip mine.<NOD
+This used to be a Jojo reference
+but someone stole it the other
+night so now it's Minecraft.<NOD<CLRWe depend on these minerals
+for our life.<NOD<CLRThe crystal meth down here,
+though, is bad news.<NOD<CLRIf you take it,
+they say your blood starts to
+boil, and soon you fall over dead!<NOD<CLRGood thing we don't mine any
+of that here.<NOD<END
+
+
+#0220
+<KEY<FLJ1020:0221<MSGA redstone sprinkler.<NOD<END
+#0221
+<KEY<MSGYou'd need a iron pick to move it!<NOD<END
+
+#0300
+<PRI
+<FL+0410
+<DNP0300
+<MSGYou see something gleaming...<NOD<CLR<CMU0010<GIT1005<IT+0005
+Got the =Beast Fang=.<WAI0160<NOD<CLO
+<RMU<END
+
+#0400
+<PRI<SOU0022<DNP0400<CMU0016
+<MSG<GIT1006Got =Leather Boots=!<WAI0160<NOD<RMU<ML+0003
+Max health increased by 3!<NOD<END
+

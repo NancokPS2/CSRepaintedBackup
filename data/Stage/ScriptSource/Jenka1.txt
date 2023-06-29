@@ -1,0 +1,162 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+
+
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC0013Hey welcome to my house.<NOD It's
+a little weird you broke in<NOD
+but whatever, it's cool.<NOD<END
+
+#0201
+<IT-0014
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<KEY<MSG<FAC0013Why did you bring a stray
+dog into my house?<NOD<CLR<GIT1014Just leave it on the floor.<NOD<CLR
+<GIT0000<FAC0000You dropped the =Creature=.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013Now I have to buy dog food.<NOD<CLRWait. Did you just say<NOD
+=Meth=?<NOD<FAC0000<CLR<CMU0000<MSGDUN DUN!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0005Oh crap, it's Jerma<NOD<CLR<FAC0013What did you do
+to my roof!?<NOD<ANP0300:0120:0002
+This is why i don't like
+robots.<NOD<CLROne bad move and
+they destroy shit.<NOD<CLRImagine someone was standing
+there when you landed.<NOD<CLRThey would have been turned
+into fucking mush.<NOD<CLR<FAC0014But there wasn't anyone down
+there...<NOD<CLR<FAC0013Alright, alright<NOD but how
+would you feel if you 
+didn't have-<NOD<CLRYou know what, never mind.
+How's your buddy Eric?<NOD<CLR<FAC0005E-Eric?... Look. I don't
+know what you're talking
+about,<NOD and I don't have time
+for this.<NOD<CLRMy boss put me on baby-
+sitting duty<NOD<FAC0014 (although it's
+actually kind of fun)<FAC0005 he
+doesn't know I lost the
+house key, and I need to get
+it back ASAP.<NOD<CLR<FAC0013.....<NOD<CLRNah, I don't know what
+you're talking about.<NOD<CLR
+<ANP0400:0030:0000<FAC0014Hoho!<NOD<CLRPlaying dumb, are
+you?!<NOD<CLR<FAC0005.....<NOD<CLRI see how it is.<NOD<CLO<CMU0000
+<WAI0050<FAC0005<MSGYou'll regret this.<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC0013<CNP0300:0130:0000My roof!<NOD<CLR
+That Walter White is bad
+news.<NOD<CLRI'm not a fan of these
+things.<NODI don't know what
+it is, they just seem
+weird.
+<NODIf you brought four
+more into my house, I'd 
+probably be really mad<NOD
+haha.<NOD<FL+0590<END
+
+#0210
+<KEY<MSG<FAC0013 <NOD<END
+
+#0211
+<KEY<MSG<FAC0013No chat, I'm not gonna-<NOD
+I'm not gonna give
+that robot the key<NOD it's not
+happening.<NOD<END
+
+#0212
+<KEY<MSG<FAC0013Apparently these guys were
+forced to eat cement when
+they were six.<NOD That's just
+messed up,<NOD who would
+do that?<NOD<END
+
+
+#0213
+<KEY<MSG<FAC0013When was the last time you
+went to the laundromat with
+butter tied to your elbows?<NOD<CLR
+And don't lie, everyone
+will know.<NOD<END
+
+
+#0220
+<KEY<MSG<FAC0013Oh hey.<NOD<CLR<GIT1014... that is certainly a
+creature.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Gave him the =Creature=.<NOD<CLR<FL-0274<FAC0013I told you I don't want it.<NOD<CLR
+It looks like it's about to
+explode.<NODWait no<NOD it's just
+generating confetti.<NOD
+That's still icky.<NOD<CLRKnowing you, you'll probably
+bring back three more<NOD<FL+0591<END
+
+#0221
+<KEY<MSG<FAC0013Oooh.<NOD<CLR<GIT1014Yeah.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Gave Jerma the =Creature=.<NOD<CLR<FL-0274<FAC0013Thank you.<NOD
+I'm actually really starting
+to like these little guys.<NOD<CLRHey,<NOD wouldn't it be funny if
+they ate, like, corned beef.<NOD
+Because that's not something
+animals usually eat.<NOD<CLRTwo more to go...<NOD Good luck.<NOD<FL+0592<END
+
+#0222
+<KEY<MSG<FAC0013Well aren't you all just the
+cutest!<NOD
+Oh hey!<NOD<CLR<GIT1014Sorry my room's a mess,
+you can just throw that in
+the back.<NOD<CLR
+<GIT0000<FAC0000Gave Jerma the =Creature=.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+<FAC0013......<NOD<CLRYou're after Walter's house
+key, aren't you.<NOD<CLRI don't care who you
+are, you're not getting
+the key.<NOD
+Mainly because I eated it.<NOD<CLROne, two, three...<NOD<CLRThere's only one
+left.<NOD<FL+0593<END
+
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+
+#0310
+<KEY<MSGYipee!<NOD<END
+#0311
+<KEY<MSGYipee!!<NOD<END
+#0312
+<KEY<MSGYipee!!!<NOD<END
+#0313
+<KEY<MSGWhy do they call it oven when you
+of in the cold food of out hot eat
+the food<NOD<END
+#0314
+<KEY<MSGFive!<NOD<END
+
+
+#0400
+#0401
+
