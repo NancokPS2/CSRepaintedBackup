@@ -20,7 +20,22 @@
 #0200
 <KEY<FLJ1290:0201<FL+1290<MSGNghh.<NOD<CLROuggh...<NOD
 What is this place?
-<NODIt looks like shit.<END
+<NODIt looks like shit.<NOD
+And it smells like it too.
+<NOD<END
 #0201
-<KEY<MSGHow did I get here?<NODWho even am I?<NOD<END
+<KEY<MSGWhy did I even end up here?<NOD<CLR  
+Oh. Hey!<NOD<CLR
+I managed to manifest myself again!
+Seems like i'm getting really good 
+at it.<NOD<CLR
+I just wish it was anywhere else
+but in this shithole.<NOD<CLR
+Aaand i'm fading again.<NOD It's fine.
+I didn't want to be here anyway.
+//<DNP0029<FL+1291
+<CNP0029:0004:0000
+
+<END
+
 
