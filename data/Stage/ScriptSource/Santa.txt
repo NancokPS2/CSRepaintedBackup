@@ -9,27 +9,21 @@
 <MNA<CMU0002<FAI0003<END
 #0094
 <MNA<FLJ0341:0099<CMU0002<FAI0004<END
-
 #0099
 <CMU0028<FAI0004<END
-
 #0100
 <PRI<SOU0011<DNP0100<FAO0004<TRA0006:0094:0004:0012
-
-
-
 #0120
 <KEY<MSG<TURWatch out! Deathtrap to your left.
 One touch means instant death!<NOD<MSG
 But I know you died to the spikes
 in First Cave, so this
 warning's a bit late.<NOD<END
-
-
 #0300
 <ITJ0008:0301
 <KEY<MSG*Crackle* *Snap!*<NOD<FLJ0242:0000
-The Lamp Oil burns fiercely.<NOD<END
+The Lamp Oil burns fiercely with a
+touch of magic.<NOD<END
 #0301
 <KEY<GIT1008<MSGDo you want to use
 =A Jar of Dirt=?<YNJ0000<CLO<GIT0000
@@ -37,11 +31,8 @@ The Lamp Oil burns fiercely.<NOD<END
 <MSGYou find something in the
 ashes...<NOD<CLR<GIT1012<IT+0012
 <CMU0010Got the =Lamp Oil=.<WAI0160<NOD<CLO<RMU<DNP0300<END
-
 #0302
 <KEY<DNP0300<END
-
-
 #0500
 <FLJ0226:0506
 <FLJ0242:0505
@@ -49,26 +40,47 @@ ashes...<NOD<CLR<GIT1012<IT+0012
 <FLJ0241:0503
 <FLJ0240:0502
 <KEY<FL+0240<MSGThanks, you really saved me there.<NOD
-Here, you can have this.<NOD<GIT0003<AM+0003:0000<CLR
-<CMU0010It burns when you pee!<WAI0160<NOD<RMU<GIT0000<CLRYou're looking for someone?<NOD
-I haven't seen anyone else
-around here.<NOD
-If you want to go searching
-farther in,<NOD
-you'll have to pass through the
-fireplace in Chaco's house...<NOD<FL+0241<END
+Here, you can have this one.<NOD<GIT0003<AM+0003:0000<CLR
+<CMU0010It burns when you pee!<WAI0160<NOD<RMU<GIT0000<CLR
+My friend left already, so i don't
+need the catnip anymore, they must
+have walked off-screen already...<NOD<CLR
+Also i found the catnip under my
+bed. The jar the jellyfish had must
+have been my jar of dirt.<NOD<CLR
+So yeah, you can keep the jar.<NOD
+You can put out ALL kinds of fires 
+with it!<NOD<FL+0241<END
 #0503
-<KEY<MSGYou can get to the inner part of
-Grasstown by passing through the
-fireplace in Chaco's house.<NOD<END
+<KEY<MSGRemember the friend i told you
+about? Well, they where carrying
+this giant lightbulb right?<NOD<CLR
+Seems like they smashed it against
+the floor before leaving.<NOD
+Can you believe it?<NOD<CLR
+I almost cut my paws with it!<NOD<CLR
+Even after faking my DEATH just so
+they could have a role in NUDEALERT
+...<NOD
+Anyway, if you're lost-<NOD
+Nah, fuck it, i'm not giving any
+more tutorials.<NOD<CLR
+I'm just going to roll a doobie
+with this catnip.<END
 #0504
 <KEY<MSGYou need some =Lamp Oil=?<NOD
-You can take what's in my
-fireplace, if you like.<NOD<END
+You can take the one i keep in the
+lit fireplace.<NOD<CLR
+Why are you giving me that look?<NOD
+It's magic fire.<END
 #0505
-<KEY<MSGWhat do you need Lamp Oil for?<NOD<END
+<KEY<MSGWhat do you need Lamp Oil for?<NOD
+Oh right, only heroes of time and 
+monsters can make magic fire.<END
 #0506
 <KEY<MSGI heard some kind of crash outside
 a little while ago.<NOD
 That and the sounds of Daytona...<NOD<END
-
+#0019
+<KEY<MSGThere are some munched blunts under
+the bed.<NOD<END
