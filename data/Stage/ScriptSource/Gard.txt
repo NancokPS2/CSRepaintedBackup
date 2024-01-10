@@ -36,11 +36,7 @@ as you requested.<NOD<CLR<FAC0021Well done.<NOD<CLO
 <WAI0030<ANP0502:0000:0002
 <MSG<FAC0015Yes.<NOD<CLR<FAC0021My, my...<NOD<CLRIt's more pure
 than even I had
-imagined...<NOD<CLR<FAC0015Mister White...<NOD
-Would you like a sample?<NOD<CLR<FAC0021...No, let us not do
-that.<NOD<CLR
-.....<NOD<CLRHmmmm...<NOD
-Instead, let us bring in our
+imagined.<NOD.....<NOD<CLR<FAC0021Bring in our
 "friend."<NOD<CLR<FAC0015Yes, Mister White.<NOD<FAC0000<CLO
 <ANP0502:0030:0000<WAI0050
 <CNP0503:0144:0000<WAI0110
@@ -49,26 +45,24 @@ Instead, let us bring in our
 <ANP0503:0006:0000<CNP0504:0009:0002<WAI0100
 <CNP0504:0012:0002<ANP0503:0010:0002
 <ANP0504:0030:0002
-<MSG<FAC0008Hey Balrog!<NOD<CLR<FAC0014Hi Asuka!<NOD<CLR
-<FAC0005The boss wants to talk.<NOD<FON0506:0016<CLR<FAC0021Asuka.<NOD
+<MSG<FAC0008Hey Balrog!<NOD<CLR<FAC0014Hi Asuka!<NOD<CLR<FAC0015The boss wants to talk.<NOD<FON0506:0016<CLR<FAC0021Asuka.<NOD
 Some of the others
 from the village are on
 their way.<NOD
 You know they never loved or
-valued you.<NOD<CLR
-<FAC0008I guess<NOD<CLR
-<FAC0021How would you like to
-prove yourself to them; to
-become stronger?<NOD<CLR<FAC0008Stronger?<NODThat would be cool!<NOD<CLR<FAC0021Then take this.<NOD It will make
+valued you.<NOD<CLR<FAC0008I guess<NOD<CLR<FAC0021How would you like to
+prove yourself to them,<NOD to
+become stronger?<NOD<CLR<FAC0008Stronger?<NOD
+That would be cool!<NOD<CLR<FAC0021Then take this.<NOD It will make
 them all respect you.<NOD
 Would I lie to you?<NOD<CLR<FAC0008I guess not...<NODI'll try it.<NOD<CLR<FAC0021Balrog, keep an eye on her,
 <NODmake sure she follows
-through.<NOD<CLR<FAC0005<ANP0504:0030:0002
-W-what?<NODAre you sure about-<NOD<FAC0021...<NOD<CLR<FAC0015.<NOD..<NOD<CLR<FAC0005Alright.<NOD<CLR<FAC0000<CLO
-<ANP0504:0060:0002<WAI0032<MSG<FAC0006So I put all the clear stuff
+through.<NOD<CLR<FAC0005<ANP0504:0030:0002W-what?<NOD Are you sure about-<NOD<CLR<FAC0021...<NOD<CLR<FAC0015..<NOD.<NOD<CLR<FAC0005Alright.<NOD<CLR<FAC0000<CLO
+<ANP0504:0060:0002<WAI0032
+<ANP0504:0050:0002<WAI0050<MSG<FAC0006So I put all the clear stuff
 in this pipe, right?<NOD<CLR<FAC0005...<NOD<CLR<FAC0000<CLO
-<ANP0504:0050:0002<WAI0050
-<CMU0000<FAC0000WAAAAIT!!<NOD<CLO
+<WAI0050<MSG
+<CMU0000<FAC0000WAAAAIT!!<NOD<CLO<ANP0504:0050:0002
 <FON0505:0016<WAI0030<CMU0018
 <CNP0505:0061:0002<ANP0505:0020:0002<WAI0050<MYD0050
 <ANP0505:0010:0002<WAI0024
@@ -78,13 +72,22 @@ in this pipe, right?<NOD<CLR<FAC0005...<NOD<CLR<FAC0000<CLO
 <MSG<FAC0007Asuka!
 Are you okay?!<NOD<CLR<FAC0011...K...King...?<NOD<CLRBut... why do you care?<NOD
 You hated me, and always
-called me stupid.<NOD<CLR<FAC0007
-No! I called you "baka",
+called me stupid.<NOD<CLR<FAC0007No! I called you "baka",
 because you're my friend,
-Asuka,<NOD my tomodachi.<NOD<CLRWe were always there for you<NOD
-I just wish I could have
-shown you that more<CLRNo!!<NOD<FON0501:0016<CLRWalter.<NOD
-Monkeyfudging.<NOD
+Asuka.<NOD My tomodachi.<NOD<CLRWe were always there for
+you,<NOD I just wish I could
+have shown you that more.<NOD<CLRI'm sorry.<NOD<CLR<FAC0011*cough* You're not kidding,<NOD
+are you?<NOD<CLRNo...<NOD what have I done?<NOD
+I-I-I-I-I-<NOD Ouugh,<NOD my heart
+feels like it's going to
+literally explode...<NOD<CLR<FAC0007Stay calm Asuka! We can go
+back to the village when
+this is all over with.<NOD
+We'll visit Sue and
+everyone!<NOD<CLR<FAC0011 That would be nice.<NOD<CLR*cough*I want to see my
+mother again.<NOD
+m-m-m-m-my m-m-m-m-m-m-m-m-<CLR<FON0501:0016<FAC0007YOU!!<NOD<CLRWalter.<NOD
+Motherfucking.<NOD
 White.<NOD<FAC0000<CLO
 <WAI0050<MSG<FAC0021.....<NOD<CLRWhat exactly is
 it you plan to do with
@@ -97,14 +100,15 @@ diversions.<NOD<CLR<FAC0007I'll kill yoooouuuuuuuu!!<NOD<FAC0000<CLO
 <ANP0505:0030:0000<FON0505:0016
 <DNA0145<CMU0000<WAI0130
 <MSG<FAC0021Ha.<NOD<CLO<WAI0030<SMC<WAI0030
-<MSGRYou honestly thought you
-could sneak attack me?<NOD
-I saw your allies come here,<NOD
-I scattered them across the
-underground<NOD!<FON0501:0016<ANP0501:0020:0000<CLRIf you survive your friend
+<MSGYou really thought you
+could sneak attack me in my
+own home?<NOD
+I saw your allies come
+here,<NOD I scattered them across
+the underground!<NOD<FON0501:0016<ANP0501:0020:0000<CLRIf you survive your friend
 here, know this:<NOD
 you can never stop me.<NOD
-Give up while you can!<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
+Give up while you can.<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
 <CNP0503:0140:0002<BSL0503
 <FOM0016<END
 

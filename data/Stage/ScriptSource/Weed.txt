@@ -96,9 +96,9 @@ Got =Santa's Key=!<WAI0160<NOD<CLO
 <GIT0000<RMU<END
 
 #0201
-<PRI<FLJ0228:0207<FL+0228<MSGHuh?<NODYou can see me?<NOD<CLR
-Shit shit shit!<NOD<CLR<WAI0020
-<EVE0207
+<PRI<FLJ0228:0207<FL+0228<MSGOho.<NOD<CLRA soldier from the surface?<NOD
+I thought the war was over
+already.<NOD<CLRWell, whatever.<NOD<CLO<EVE0207
 
 
 #0202
@@ -125,19 +125,10 @@ while a fan blows you around,<NOD
 you'll fly even higher.<NOD<END
 
 #0207
-<PRI<MSGOh, sorry. I just realized 
-that you're not a human.<NOD
-Wait.<NOD 
-I feel weird<WAI0005.<WAI0005.<WAI0005.<NOD<CLR
-Dammit! You destabilized my 
-existence by talking to me!<NOD<CLR 
-It took me an ethernity to manifest
-visually!<NOD<CLR
-Well, i guess that you could not 
-have known. Goodbye.<NOD<CLR
-//<DNP0029
-<CNP0029:0004:0000
-<END
+<PRI<MSGIf you're going on ahead,
+watch out for those Power
+Critters.<NOD
+When they land on you, it hurts.<NOD<END
 
 #0210
 <PRI<MSGWASTED<NOD<END
